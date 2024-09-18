@@ -9,7 +9,7 @@ langchain
 requests
 PyPDF2
 python-docx
-pptx
+python-pptx
 transformers
 tiktoken
 groq
