@@ -15,4 +15,3 @@ tiktoken
 groq
 gunicorn 
 python-dotenv
-pickle
