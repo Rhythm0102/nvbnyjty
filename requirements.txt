@@ -14,5 +14,5 @@ transformers
 tiktoken
 groq
 gunicorn 
-dotenv
+python-dotenv
 pickle
