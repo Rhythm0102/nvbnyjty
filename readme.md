@@ -113,9 +113,4 @@ As it has a prototype it still has some limitations
 ## Video Demo
 
 [Click here to watch the video](https://youtu.be/MiXiGvHg_QE)
-
-
-
-
-
-
+Original Video was 3min 12sec long, processed to reduce time lag.
