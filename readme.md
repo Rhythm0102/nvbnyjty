@@ -112,7 +112,8 @@ As it has a prototype it still has some limitations
 
 ## Video Demo
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[Click here to watch the video](https://youtu.be/MiXiGvHg_QE)
+
 
 
 
