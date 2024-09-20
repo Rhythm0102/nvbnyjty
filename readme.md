@@ -111,7 +111,10 @@ As it has a prototype it still has some limitations
 
 
 ## Video Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MiXiGvHg_QE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
+
 
 
 
